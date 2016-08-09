@@ -1,0 +1,8 @@
+#!/bin/bash
+pip install selenium
+pip install mechanize
+# the lines below are needed for FF > 47 (buggy)
+# cd /tmp
+# wget https://github.com/mozilla/geckodriver/releases/download/v0.9.0/geckodriver-v0.9.0-linux64.tar.gz
+# tar zxvf geckodriver-v0.9.0-linux64.tar.gz
+# mv geckodriver /usr/local/bin/wires

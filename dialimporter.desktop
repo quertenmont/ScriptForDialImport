@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Import to DIAL
+Terminal=true
+Name=Dial Importer
+Exec=/usr/local/bin/dialimport_gui.py
+Type=Application
+Icon=gnome-panel-launcher

@@ -1,0 +1,9 @@
+Package: dialimporter
+Version: 0.9-1
+Section: base
+Priority: optional
+Architecture: all 
+Depends: python-pip (>= 1.0.0), python-tk (>= 1.0.0)
+Maintainer: Jerome de Favereau (jerome.defavereau@uclouvain.be)
+Description: Dial Importer
+ Imports your publications from inspireshep to UCL DIAL
